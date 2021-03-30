@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Voxel-sudo</h1>
-<h3 align="center">A passionate Java and JavaScript Dev | Bird Watcher</h3>
+<h3 align="center">JavaScript Dev | Java Dev | Arial Client Admin | AI Enthusiast | Bird Watcher </h3>
 
 - 🔭 I’m currently working on **Arial Client**
 
