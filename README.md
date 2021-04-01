@@ -5,8 +5,6 @@
 
 - 👯 I’m looking to collaborate on **Java Projects!**
 
-- About Me **Hi! Im Voxel, a Amateur Java Developer looking to expand my portfolio. If you have any projects, I would love to help! message me or send me a email! Have a great day!**
-
 - 👨‍💻 All of my projects are available at [github.com](github.com)
 
 - 💬 Ask me about **Java.**
@@ -14,6 +12,8 @@
 - 📫 How to reach me **voxel.sudo@gmail.com | Voxel-Sudo#9231**
 
 - ⚡ Fun fact **I love Data :)**
+
+<p1>Hi! Im Voxel, A (Mediocre) Java Developer. If you have any projects LMK, I would love to help :) Have a great day!</p1>
 
 
 <h3 align="left">Languages and Tools:</h3>
