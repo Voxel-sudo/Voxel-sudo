@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Voxel-sudo</h1>
 <h3 align="center">JavaScript Dev | Java Dev | Arial Client Admin | AI Enthusiast | Bird Watcher </h3>
 
-- 🔭 I’m currently working on **Arial Client**
+- 🔭 I’m currently working on **A Easy Forge Decompiler. Based on fernflower**
 
-- 🌱 I’m currently learning **Java. Javascript.**
+- 🌱 I’m currently learning **Java. And big O Stuff.**
 
-- 👯 I’m looking to collaborate on **Nothing right now.**
+- 👯 I’m looking to collaborate on **Java projects.**
 
 - 👨‍💻 All of my projects are available at [github.com](github.com)
 
-- 💬 Ask me about **Javascript.**
+- 💬 Ask me about **Java.**
 
 - 📫 How to reach me **voxel.sudo@gmail.com, SudoVoxel#9231**
 
