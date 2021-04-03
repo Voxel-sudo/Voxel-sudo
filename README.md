@@ -22,3 +22,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=voxel-sudo&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="voxel-sudo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=voxel-sudo&show_icons=true&theme=tokyonight&locale=en" alt="voxel-sudo" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=voxel-sudo&theme=dark" alt="voxel-sudo" /></p>
