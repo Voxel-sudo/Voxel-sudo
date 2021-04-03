@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **voxel.sudo@gmail.com | Voxel-Sudo#9231**
 
-- ⚡ Fun fact **I love Data :)**
+- ⚡ Fun fact **I love Minecraft**
 
 
 <h3 align="left">Languages and Tools:</h3>
