@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Voxel-sudo</h1>
 <h3 align="center">Java Dev. | Java Reverse-Engineer. | Bird Watcher.</h3>
 
-- 🌱 I’m currently learning **Advanced Java Algorithms. (Big O) and Modding Minecraft!**
+- 🌱 I’m currently learning **spigot plugins in MC!**
 
 - 👯 I’m looking to collaborate on **Java Projects!**
 
-- About Me **Hi! Im Voxel, a Amateur Java Developer looking to expand my portfolio. If you have any projects, I would love to help! message me or send me a email! Have a great day!**
+- About Me **Hi! Im Voxel, a Amateur Java Developer looking to expand my portfolio. If you have any projects, I would love to help! message me or send me a email! I am learning spigot and love to make plugins! have a great day.**
 
 - 👨‍💻 All of my projects are available at [github.com](github.com)
 
