@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Voxel-sudo</h1>
-<h3 align="center">Java Dev. | Java Reverse-Engineer. | Project Lover.</h3>
+<h3 align="center">Java Dev. | Java Reverse-Engineer. | Bird Watcher.</h3>
 
-- 🌱 I’m currently learning **Advanced Java Algorithms. (Big O)**
+- 🌱 I’m currently learning **Advanced Java Algorithms. (Big O) and Modding Minecraft!**
 
 - 👯 I’m looking to collaborate on **Java Projects!**
 
@@ -9,11 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [github.com](github.com)
 
-- 💬 Ask me about **Java.**
+- 💬 Ask me about **Java, Fernflower.**
 
 - 📫 How to reach me **voxel.sudo@gmail.com | Voxel-Sudo#9231**
 
-- ⚡ Fun fact **I love Nothing**
+- ⚡ Fun fact **I love Minecraft!**
 
 
 <h3 align="left">Languages and Tools:</h3>
