@@ -1,19 +1,18 @@
-<h1 align="center">Hi 👋, I'm Voxel-sudo</h1>
-<h3 align="center">Java Dev. | Java Reverse-Engineer. | Minecraft Player!</h3>
+<h1 align="center">Hi, I'm Voxel!</h1>
 
-- 🌱 I’m currently learning **Unity**
+```
+public class Person 
+{
+  "Name": "Voxel",
+  "Language": "C#, Java.",
+  "Learning": "Unity"
+}
 
-- 👯 I’m looking to collaborate on **Stuff**
+System.out.writeline(Person.Name);
+System.out.writeline(person.Language);
+System.out.writeline(Person.Learning);
+```
 
-- About Me **Hi! Im Voxel, a Amateur c# Developer Learning unity. I also Sometimes Make Discord bots, ECT. Have a great day!*
-
-- 👨‍💻 All of my projects are available at [github.com](github.com)
-
-- 💬 Ask me about **c#**
-
-- 📫 How to reach me **voxel.sudo@gmail.com | Voxel-Sudo#9231**
-
-- ⚡ Fun fact **I love Minecraft!**
 
 
 <h3 align="left">Languages and Tools:</h3>
