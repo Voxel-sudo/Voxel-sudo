@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Stuff**
 
-- About Me **Hi! Im Voxel, a Amateur c# and java developer.**
+- About Me **Hi! Im Voxel, a Amateur c# Developer Learning unity. I also Sometimes Make Discord bots, ECT. Have a great day!*
 
 - 👨‍💻 All of my projects are available at [github.com](github.com)
 
