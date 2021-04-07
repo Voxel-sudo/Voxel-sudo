@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Voxel-sudo</h1>
 <h3 align="center">Java Dev. | Java Reverse-Engineer. | Minecraft Player!</h3>
 
-- 🌱 I’m currently learning **Spigot Plugins.**
+- 🌱 I’m currently learning **Unity**
 
-- 👯 I’m looking to collaborate on **Spigot Projects. Java projects**
+- 👯 I’m looking to collaborate on **Stuff**
 
-- About Me **Hi! Im Voxel, a Amateur Java Developer looking to expand my portfolio. If you have any projects, I would love to help! message me or send me a email! Have a great day!**
+- About Me **Hi! Im Voxel, a Amateur c# and java developer.**
 
 - 👨‍💻 All of my projects are available at [github.com](github.com)
 
-- 💬 Ask me about **Java.**
+- 💬 Ask me about **c#**
 
 - 📫 How to reach me **voxel.sudo@gmail.com | Voxel-Sudo#9231**
 
