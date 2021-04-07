@@ -13,8 +13,8 @@ namespace README
             public class Person
             {
               public string name = "Voxel",
-              public string projects = "Unity,
-              string[] languages = {"c#", "Java", "JavaScript"};
+              public string projects = "Unity",
+              string[] languages = {"c#", "Java", "JavaScript"}
             
             }
         }
