@@ -2,7 +2,7 @@
 
 <html>
 <head>
-  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="mystyles.css">
 </head>
 <body>
   <h1>Hi there! Im Voxel!</h1>
