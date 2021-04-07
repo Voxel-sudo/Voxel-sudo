@@ -16,5 +16,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=VoxelSudo" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Voxel-sudo&show_icons=true&theme=tokyonight&locale=en&layout=compact" />
 </a>
