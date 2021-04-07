@@ -7,16 +7,26 @@
 namespace README
 {
     class Hello 
-    {         
-        static void Main(string[] args)
-        {
-            public class Person
+    {   
+        public class Person
             {
               public string name = "Voxel",
               public string projects = "Unity",
               string[] languages = {"c#", "Java", "JavaScript"}
+            }
+            
+            
+            public String getName() 
+            {
+                return Person.name;
+            
             
             }
+            
+        static void Main(string[] args)
+        {
+            
+            
         }
     }
 }
