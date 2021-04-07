@@ -1,36 +1,7 @@
 <h1 align="center">Hi, I'm Voxel!</h1>
 
 ```csharp
-
-
-
-namespace README
-{
-    class Hello 
-    {   
-        public class Person
-            {
-              public string name = "Voxel",
-              public string projects = "Unity",
-              string[] languages = {"c#", "Java", "JavaScript"}
-            }
-            
-            
-            public String getName() 
-            {
-                return Person.name;
-            
-            
-            }
-            
-        static void Main(string[] args)
-        {
-            
-            
-        }
-    }
-}
-
+System.out.writeline("Hi!);
 ```
 
 
