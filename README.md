@@ -6,7 +6,7 @@
 {
   
   "name": "Voxel" ,
-  "Languages": ["c#", "Java"],
+  "Languages": ["c#", "Java", "C++"],
   "Most Controversial Statements": ["Rider Is Better Then Visual Studio", "Guess We Dont Need Semicolons After All"],
   
   "About Me": "Hi! Im Voxel. A Unity developer learning more about game development every day. You can find me: 
