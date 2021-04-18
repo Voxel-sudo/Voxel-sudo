@@ -5,12 +5,11 @@
 ```json
 {
   
-  "name": "Voxel" ,
-  "Languages": ["c#", "Java", "C++"],
-  "Most Controversial Statements": ["Rider Is Better Then Visual Studio", "Guess We Dont Need Semicolons After All"],
+  "name": "James" ,
+  "Languages": ["JavaScript", "HTML & CSS", "Python"],
+  "Most Controversial Statements": "Webstorm is better the visual Studio",
   
-  "About Me": "Hi! Im Voxel. A Unity developer learning more about game development every day. You can find me: 
-  Procrastinating, Gaming, Sucking at pixel art, and practically everything else."
+  "About Me": "Hi! Im Voxel. A (bad) Web developer Learning about... well things.... yeah.... Well this is a readme"
   
   
   
