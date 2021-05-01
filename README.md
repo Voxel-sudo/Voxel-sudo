@@ -6,7 +6,7 @@
 {
   
   "name": "James" ,
-  "Languages": ["JavaScript", "HTML & CSS", "Python"],
+  "Languages": ["JavaScript", "HTML & CSS"],
   "Most Controversial Statements": "Webstorm is better the visual Studio",
   
   "About Me": "Hi! Im Voxel. A (bad) Web developer Learning about... well things.... yeah.... Well this is a readme"
