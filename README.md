@@ -1,15 +1,15 @@
 
 <h1> Hi Im Voxel!</h1>
-<h2>Unity Developer, Pixel-Artist, Minecraft Player</h2>
+<h2>C++ Dev, </h2>
 
 ```json
 {
   
-  "name": "James" ,
+  "name": "James",
   "Languages": ["C++", "html&CSS"],
-  "Most Controversial Statements": "Webstorm is better the visual Studio",
+  "Most Controversial Statements": "Clion is better the visual Studio",
   
-  "About Me": "Hi! Im Voxel. A (bad) Web developer Learning about... well things.... yeah.... Well this is a readme"
+  "About Me": "Hi! Im Voxel. A (bad) C++ Dev learning more about C++, If you have any cool projects, let me know!"
   
   
   
